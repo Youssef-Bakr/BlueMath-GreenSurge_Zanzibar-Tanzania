@@ -1,1 +1,6 @@
-
+A new hybrid model based on summation of sea-level responses to unitary wind sources.
+•
+GreenSurge provides accurate storm surge estimations at very low computational cost.
+•
+The robustness of the model is confirmed through validation with tide gauge data.
+https://www.sciencedirect.com/science/article/abs/pii/S0378383924002394
