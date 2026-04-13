@@ -1,0 +1,2 @@
+notes
+the impulse response of an inhomogeneous linear differential operator defined on a domain with specified initial conditions or boundary conditions.
