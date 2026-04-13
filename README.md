@@ -1,2 +1,4 @@
-# BlueMath-Greensurge_Zanzibar-Tanzania
-BlueMath-Greensurge_Zanzibar-Tanzania
+# BlueMath-GreenSurge_Zanzibar-Tanzania
+GreenSurge provides accurate storm surge estimations at very low computational cost.
+
+
