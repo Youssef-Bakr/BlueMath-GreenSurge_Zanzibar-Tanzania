@@ -5,7 +5,7 @@ GreenSurge provides accurate storm surge estimations at very low computational c
 
 
 
-A Green's function is an integral kernel that can be used to solve differential equations 
+A Green's function is an integral kernel that can be used to solve differential equations. 
 
 
 
